@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&family=Quicksand:wght@300&display=swap');
+
+button {
+    background-color: white;
+    width: 400px;
+    height: 150px;
+    font-family: 'Quicksand', serif;
+    font-size: 40px;
+    border-radius: 15px;
+    border: solid, 1px;
+}
+
+body {
+    text-align: center;
+    margin-top: 200px;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-family: 'Quicksand', serif;
+    font-size: 50px;
+}
