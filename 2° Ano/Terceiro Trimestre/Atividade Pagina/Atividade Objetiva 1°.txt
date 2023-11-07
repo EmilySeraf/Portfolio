@@ -1,0 +1,1 @@
+Como primeira atividade objetiva, resolvi colocar essa atividade em que tivemos que criar uma página na web, usando css, html e javascript. Nela tivemos que criar um botão e quando clicarmos a cor da página deveria mudar. Gostei muito dessa atividade, pois pude colocar em prática oque viemos estudando nas últimas e fiquei muito feliz em estão fazendo minhas primeiras páginas.
